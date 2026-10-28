@@ -14,7 +14,7 @@ claude plugin install storyscope-writing@storyscope
 Или внутри сессии Claude Code:
 
 ```
-/plugin marketplace add YOUR_GITHUB/storyscope-writing
+/plugin marketplace add dizdep/storyscope-writing
 /plugin install storyscope-writing@storyscope
 ```
 
