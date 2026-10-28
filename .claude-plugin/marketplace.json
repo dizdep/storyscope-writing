@@ -1,0 +1,14 @@
+{
+  "name": "storyscope",
+  "description": "Skills for writing like a human, based on the StoryScope study (UMD + Google DeepMind, 2026)",
+  "owner": {
+    "name": "YOUR_NAME"
+  },
+  "plugins": [
+    {
+      "name": "storyscope-writing",
+      "source": "./plugins/storyscope-writing",
+      "description": "Write fiction and prose with human narrative structure, not AI defaults"
+    }
+  ]
+}

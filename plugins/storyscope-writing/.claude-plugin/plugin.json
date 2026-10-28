@@ -1,0 +1,9 @@
+{
+  "name": "storyscope-writing",
+  "description": "Write fiction and prose with human narrative structure, not AI defaults. Based on StoryScope (arXiv:2604.03136).",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "YOUR_NAME"
+  }
+}
