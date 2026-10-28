@@ -7,7 +7,7 @@
 В терминале:
 
 ```bash
-claude plugin marketplace add YOUR_GITHUB/storyscope-writing
+claude plugin marketplace add dizdep/storyscope-writing
 claude plugin install storyscope-writing@storyscope
 ```
 
